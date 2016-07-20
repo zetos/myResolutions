@@ -19,7 +19,7 @@ export default class ResolutionsWrapper extends TrackerReact(React.Component) {
 
 	componentWillUnmount() {
 	      this.state.subscription.resolutions.stop();
-	},
+	}
 
 	resolutions() {
 		return Resolutions.find().fetch();
