@@ -22,5 +22,6 @@ meteortoys:allthings
 ultimatejs:tracker-react
 accounts-ui
 accounts-password
+session
 
 stolinski:stylus-multi
